@@ -1,0 +1,47 @@
+body {
+
+margin: 0;
+font-family: "Hiragino Kaku Gothic ProN";
+}
+
+.main{
+  width: 100%;
+  opacity: 0.8;
+  background-image: url(file:///Users/muneyukitetsuhiro/Downloads/prague-569352_1920.jpg);
+ text-align: center;
+ margin: 0 auto;
+ padding: 10px 30px;
+}
+  
+  
+  
+
+
+.main h1{
+  color: white;
+  opacity: 0.8;
+  padding: 40px 0 40px 20px;
+  letter-spacing: 20px;
+   
+
+}
+
+.main p{
+  padding-bottom: 10px;
+  padding-left: 20px;
+  font-size: 17px;
+  color: white;
+  opacity: 0.9;
+  
+  
+  
+}
+
+.main h3{
+  color: white;
+  opacity: 0.8;
+  padding: 60px 40px;
+  padding-left: 20px;
+}
+
+
