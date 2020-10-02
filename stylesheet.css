@@ -8,6 +8,7 @@ font-family: "Hiragino Kaku Gothic ProN";
   width: 100%;
   opacity: 0.8;
   background-image: url(https://github.com/tsunasan-html/about/blob/main/prague-569352_1920.jpg?raw=true);
+  background-size: cover;
  text-align: center;
  margin: 0 auto;
  padding: 10px 30px;
